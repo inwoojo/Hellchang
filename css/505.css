@@ -1,0 +1,5 @@
+@charset "utf-8"
+
+*{ margin:0; padding:0;}
+
+.top-img:hover{border:5px solid blue; }

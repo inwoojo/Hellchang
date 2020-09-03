@@ -1,0 +1,9 @@
+@charset "utf-8" ;
+
+*{margin:0; padding:0;}
+#container{ text-align:center;}
+table{width:200px; margin: 0 auto; border-collapse:collapse;}
+table, tr, td{border: 1px solid #ccc; }
+h1{margin-bottom: 20px;}
+td{padding: 10px 20px;}
+table tr:nth-child(2n+1){background-color:lightgray; color:blue;}

@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+*{ margin :0; padding:0;}
+
+li {}
+.navi {width:960px; height:60px; padding-bottom:10px;
+border-bottom: 2px solid #ccc;}
+
+.navi ul {list-style:none; padding-top: 10px; padding-bottom:5px;}
+.navi ul li{display:inline-block; width:150px; padding:10px;}
+
+.navi a:link, .navi a:visited {text-decoration:none; font-size:14px;
+   padding:10px;}
+   
+.navi a:hover, .navi a:focus{background-color:#222; color:#fff;}
